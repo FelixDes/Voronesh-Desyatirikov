@@ -5,11 +5,13 @@ from PyQt5 import uic
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtWidgets import QMainWindow, QApplication
 
+from Ui import Ui_MainWindow
 
-class MyWIdget(QMainWindow):
+
+class MyWIdget(QMainWindow, Ui_MainWindow):
     def __init__(self):
         super().__init__()
-        uic.loadUi("Ui.ui", self)
+        self.setupUi(self)
         self.test = None
         self.pushButton.clicked.connect(self.run)
 
@@ -25,7 +27,7 @@ class MyWIdget(QMainWindow):
             qp.end()
 
     def draw_circle(self, qp):
-        qp.setBrush(QColor(255, 255, 0))
+        qp.setBrush(QColor(randint(0, 255), randint(0, 255), randint(0, 255)))
         self.radius = randint(0, self.height())
         self.x, self.y = randint(0, self.width()), randint(0, self.height())
         qp.drawEllipse(self.x - self.radius, self.y - self.radius, 2 * self.radius, 2 * self.radius)

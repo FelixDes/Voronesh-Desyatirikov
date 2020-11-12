@@ -26,7 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78336b8b-d484-4797-a8cd-f5b9f321bd6a" name="Default Changelist" comment="">
+    <list default="true" id="78336b8b-d484-4797-a8cd-f5b9f321bd6a" name="Default Changelist" comment="Second_commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605178614101</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Second_commit">
+      <created>1605179015230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605179015231</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,42 +164,63 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Second_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second_commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="842" y="380" key="#Notifications" timestamp="1605024305418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="842" y="380" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1605024305418" />
-    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1605178603063">
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1605179443434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605178603063" />
+    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605179443434" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605178256938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605178256938" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1605178543394">
+    <state width="938" height="281" key="GridCell.Tab.0.bottom" timestamp="1605179531977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605178543394" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1605178543394">
+    <state width="938" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605179531977" />
+    <state width="938" height="281" key="GridCell.Tab.0.center" timestamp="1605179531977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605178543394" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1605178543394">
+    <state width="938" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605179531977" />
+    <state width="938" height="281" key="GridCell.Tab.0.left" timestamp="1605179531977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605178543394" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1605178543394">
+    <state width="938" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605179531977" />
+    <state width="938" height="281" key="GridCell.Tab.0.right" timestamp="1605179531977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605178543394" />
+    <state width="938" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605179531977" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1605178532567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -220,10 +249,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605023372387" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605178809339">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605179021345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605178809339" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605179021345" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1605178517666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
